@@ -8,6 +8,6 @@ def Test1():
     </Script>
     """
     # write your code here
-    x = test2.py.Test2()
+    x = test2.Test2()
     print (x)
     pass;
