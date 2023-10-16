@@ -6,5 +6,4 @@ def Test3():
     </Script>
     """
     # write your code here
-    print("jjjj")
-    pass;
+    return "from Test3 native"
