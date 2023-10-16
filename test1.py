@@ -1,5 +1,5 @@
-import test2_py
 import Test3_py
+import test2_py
 
 def Test1():
     """
@@ -9,8 +9,8 @@ def Test1():
     </Script>
     """
     # write your code here
-    x = test2_py.Test2()
     y = Test3_py.Test3()
-    print (x)
     print (y)
+    x = test2_py.Test2()
+    print (x)
     pass;
