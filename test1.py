@@ -10,6 +10,7 @@ def Test1():
     """
     # write your code here
     x = test2_py.Test2()
-    y = Test3_py-Test3()
+    y = Test3_py.Test3()
     print (x)
+    print (y)
     pass;
