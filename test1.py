@@ -1,4 +1,4 @@
-import test2
+import test2_py
 
 def Test1():
     """
