@@ -6,4 +6,4 @@ def Test3():
     </Script>
     """
     # write your code here
-    return "from Test3 native"
+    return "from Test3 GitHub"
