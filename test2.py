@@ -5,4 +5,4 @@ def Test2():
     <Description>Please enter script description here</Description>
     </Script>
     """
-    return "from Test2 native"
+    return "from Test2 GitHub"
